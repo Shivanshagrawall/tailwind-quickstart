@@ -1,0 +1,33 @@
+{
+  "name": "tailwind-quickstart",
+  "version": "1.0.0",
+  "description": "An npm package that install tailwind in react and next js app",
+  "keywords": [
+    "tailwind"
+  ],
+  "homepage": "https://github.com/Shivanshagrawall/tailwind-quickstart#readme",
+  "bugs": {
+    "url": "https://github.com/Shivanshagrawall/tailwind-quickstart/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivanshagrawall/tailwind-quickstart.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Shivansh Agrawal",
+  "type": "module",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "cli-spinners": "^3.2.0",
+    "commander": "^14.0.0",
+    "log-update": "^6.1.0"
+  },
+  "bin": {
+  "tailwind-quickstart": "./bin/index.js"
+}
+}
