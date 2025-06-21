@@ -7,7 +7,7 @@
 
   <hr style="margin: 20px 0;" />
 
-  <h2 style="color:#2c3e50;">🧠 How to Use</h2>
+  <h2 style="color:#2c3e50;">🧠How to Use</h2>
   <p>Run this command in your terminal:</p>
   <pre style="background-color:#eee;padding:10px;border-radius:5px;"><code>npx tailwind-quickstart &lt;framework&gt; &lt;project-path&gt;</code></pre>
 
